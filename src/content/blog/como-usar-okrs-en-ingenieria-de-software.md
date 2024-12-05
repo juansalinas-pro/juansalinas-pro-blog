@@ -4,7 +4,6 @@ author: Juan
 pubDatetime: 2024-11-30T15:57:52.737Z
 slug: okrs-en-ingenieria-de-software
 featured: true
-ogImage: ""
 tags:
   - okr
   - software
