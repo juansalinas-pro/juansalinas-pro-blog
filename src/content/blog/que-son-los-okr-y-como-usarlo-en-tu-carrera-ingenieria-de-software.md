@@ -8,8 +8,7 @@ tags:
   - okr
   - software
   - engineering
-description:
-  Los OKRs y cómo podrías utilizarlos para el desarrollo de tu carrera en Ingeniería de Software
+description: Los OKRs y cómo podrías utilizarlos para el desarrollo de tu carrera en Ingeniería de Software
 ---
 
 Recuerdo haber estudiado esta metodología en la universidad hace varios años. Honestamente, no había pensado en ella como herramienta para trazar una ruta en mi carrera de Ingeniería de Software. Supongo que en su momento no le di este enfoque porque la estudié como una herramienta para organizaciones y, quizás, también por la presión de hacer bien las cosas durante la cursada y mantenerme enfocado en lograr ese objetivo.
@@ -20,11 +19,11 @@ En este artículo, abordaré cómo implementarla en el desarrollo de una carrera
 
 ## ¿Qué son los OKRs?
 
-Un **OKR** (*Objective + Key Results*) es una metodología de gestión que define objetivos y realiza un seguimiento de los resultados clave. Ayuda a crear alineación y compromiso en torno a objetivos cuantificables.
+Un **OKR** (_Objective + Key Results_) es una metodología de gestión que define objetivos y realiza un seguimiento de los resultados clave. Ayuda a crear alineación y compromiso en torno a objetivos cuantificables.
 
 ### Origen de los OKRs
 
-Introducido y popularizado en la década de 1970 en Intel, su creador fue Andrew S. Grove, presentado en su libro *High Output Management*. Desde entonces, se ha extendido a empresas de tecnología como una forma de ayudar a los empleados a comprender los objetivos de una organización y comprometerse con ellos. 
+Introducido y popularizado en la década de 1970 en Intel, su creador fue Andrew S. Grove, presentado en su libro _High Output Management_. Desde entonces, se ha extendido a empresas de tecnología como una forma de ayudar a los empleados a comprender los objetivos de una organización y comprometerse con ellos.
 
 Los estudios muestran que los miembros del equipo están más comprometidos y son más productivos cuando tienen una idea clara de lo que el equipo está tratando de lograr y, lo que es más importante, la importancia de su tarea.
 
@@ -80,10 +79,10 @@ Los resultados clave deben ser:
 
 **Ejemplos de resultados clave:**
 
-1. Completar un curso avanzado en aprendizaje automático (*Machine Learning*) en los próximos tres meses.
+1. Completar un curso avanzado en aprendizaje automático (_Machine Learning_) en los próximos tres meses.
 2. Obtener la certificación AWS Solutions Architect antes de fin de año.
 3. Desarrollar y lanzar una aplicación móvil utilizando Flutter en los próximos seis meses.
-4. Contribuir con al menos tres *pull requests* a un proyecto de código abierto relevante en los próximos tres meses.
+4. Contribuir con al menos tres _pull requests_ a un proyecto de código abierto relevante en los próximos tres meses.
 
 ---
 
@@ -93,9 +92,9 @@ Los resultados clave deben ser:
 
 **Resultados Clave:**
 
-1. Completar un curso completo de desarrollo *full-stack* en los próximos seis meses.
-2. Desarrollar y desplegar al menos dos proyectos *full-stack* completos este año.
-3. Publicar al menos tres artículos técnicos sobre desarrollo *full-stack* en blogs relevantes.
+1. Completar un curso completo de desarrollo _full-stack_ en los próximos seis meses.
+2. Desarrollar y desplegar al menos dos proyectos _full-stack_ completos este año.
+3. Publicar al menos tres artículos técnicos sobre desarrollo _full-stack_ en blogs relevantes.
 
 ---
 
@@ -103,7 +102,7 @@ Los resultados clave deben ser:
 
 Una vez establecidos los OKRs, es importante realizar un seguimiento periódico. Esto puede ser semanal, mensual o trimestral, ajustando esfuerzos según los progresos y obstáculos encontrados.
 
-Para esto, se recomienda tener un *dashboard* para visualizar los OKRs. Existen muchas herramientas para realizar este seguimiento, como:
+Para esto, se recomienda tener un _dashboard_ para visualizar los OKRs. Existen muchas herramientas para realizar este seguimiento, como:
 
 - **Weekdone**
 - **Monday**
@@ -120,13 +119,13 @@ Implementar OKRs en tu carrera de Ingeniería de Software te proporcionará una 
 
 ---
 
-**Template de dashboard de OKRs para descargar:** [aquí](https://docs.google.com/spreadsheets/d/1qeLkA7O84a_CThoM3rT2rmXhbUK_IpaWjE7qZ1p4E_A/edit?usp=sharing)
+**Template de dashboard de OKRs para descargar:** <a href="https://docs.google.com/spreadsheets/d/1qeLkA7O84a_CThoM3rT2rmXhbUK_IpaWjE7qZ1p4E_A/edit?gid=0#gid=0" target="_blank" title="Descargar Template">aquí</a>
 
 ---
 
 ### Referencias
 
-- [Atlassian: OKRs](https://www.atlassian.com/agile/agile-at-scale/okr)
-- [10 Best OKR Examples for Software Engineers](https://medium.com/@datalligence.ai/10-best-okr-examples-for-software-engineers-2045c9800878)
-- [Engineering Goals: OKRs](https://waydev.co/engineering-goals-okrs/)
-- [Video sobre OKRs](https://www.youtube.com/watch?v=aOqNiyVpvxo)
+- <a href="https://www.atlassian.com/agile/agile-at-scale/okr" target="_blank" title="Atlassian: OKRs">Atlassian: OKRs</a>
+- <a href="https://medium.com/@datalligence.ai/10-best-okr-examples-for-software-engineers-2045c9800878" target="_blank" title="10 Best OKR Examples for Software Engineers">10 Best OKR Examples for Software Engineers</a>
+- <a href="https://waydev.co/engineering-goals-okrs/" target="_blank" title="Engineering Goals: OKRs">Engineering Goals: OKRs</a>
+- <a href="https://www.youtube.com/watch?v=aOqNiyVpvxo" target="_blank" title="Video sobre OKRs">Video sobre OKRs</a>
