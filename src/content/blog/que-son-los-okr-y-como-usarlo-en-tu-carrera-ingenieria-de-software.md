@@ -119,13 +119,13 @@ Implementar OKRs en tu carrera de Ingeniería de Software te proporcionará una 
 
 ---
 
-**Template de dashboard de OKRs para descargar:** <a href="https://docs.google.com/spreadsheets/d/1qeLkA7O84a_CThoM3rT2rmXhbUK_IpaWjE7qZ1p4E_A/edit?gid=0#gid=0" target="_blank" title="Descargar Template">aquí</a>
+**Template de dashboard de OKRs para descargar:** [aquí](https://docs.google.com/spreadsheets/d/1qeLkA7O84a_CThoM3rT2rmXhbUK_IpaWjE7qZ1p4E_A/edit?usp=sharing)
 
 ---
 
 ### Referencias
 
-- <a href="https://www.atlassian.com/agile/agile-at-scale/okr" target="_blank" title="Atlassian: OKRs">Atlassian: OKRs</a>
-- <a href="https://medium.com/@datalligence.ai/10-best-okr-examples-for-software-engineers-2045c9800878" target="_blank" title="10 Best OKR Examples for Software Engineers">10 Best OKR Examples for Software Engineers</a>
-- <a href="https://waydev.co/engineering-goals-okrs/" target="_blank" title="Engineering Goals: OKRs">Engineering Goals: OKRs</a>
-- <a href="https://www.youtube.com/watch?v=aOqNiyVpvxo" target="_blank" title="Video sobre OKRs">Video sobre OKRs</a>
+- [Atlassian: OKRs](https://www.atlassian.com/agile/agile-at-scale/okr)
+- [10 Best OKR Examples for Software Engineers](https://medium.com/@datalligence.ai/10-best-okr-examples-for-software-engineers-2045c9800878)
+- [Engineering Goals: OKRs](https://waydev.co/engineering-goals-okrs/)
+- [Video sobre OKRs](https://www.youtube.com/watch?v=aOqNiyVpvxo)
