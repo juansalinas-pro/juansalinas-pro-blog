@@ -4,6 +4,7 @@ author: Juan
 pubDatetime: 2024-11-30T15:57:52.737Z
 slug: okrs-en-ingenieria-de-software
 featured: true
+ogImage: ""
 tags:
   - okr
   - software
@@ -19,7 +20,7 @@ En este artículo, abordaré cómo implementarla en el desarrollo de una carrera
 
 ## ¿Qué son los OKRs?
 
-Un **OKR** (*Objective + Key Results*) es una metodología de gestión que define objetivos y realiza un seguimiento de los resultados clave. Ayuda a crear alineación y compromiso en torno a objetivos cuantificables.
+Un **OKR** (_Objective + Key Results_) es una metodología de gestión que define objetivos y realiza un seguimiento de los resultados clave. Ayuda a crear alineación y compromiso en torno a objetivos cuantificables.
 
 ### Origen de los OKRs
 
@@ -79,10 +80,10 @@ Los resultados clave deben ser:
 
 **Ejemplos de resultados clave:**
 
-1. Completar un curso avanzado en aprendizaje automático (*Machine Learning*) en los próximos tres meses.
+1. Completar un curso avanzado en aprendizaje automático (_Machine Learning_) en los próximos tres meses.
 2. Obtener la certificación AWS Solutions Architect antes de fin de año.
 3. Desarrollar y lanzar una aplicación móvil utilizando Flutter en los próximos seis meses.
-4. Contribuir con al menos tres *pull requests* a un proyecto de código abierto relevante en los próximos tres meses.
+4. Contribuir con al menos tres _pull requests_ a un proyecto de código abierto relevante en los próximos tres meses.
 
 ---
 
@@ -92,9 +93,9 @@ Los resultados clave deben ser:
 
 **Resultados Clave:**
 
-1. Completar un curso completo de desarrollo *full-stack* en los próximos seis meses.
-2. Desarrollar y desplegar al menos dos proyectos *full-stack* completos este año.
-3. Publicar al menos tres artículos técnicos sobre desarrollo *full-stack* en blogs relevantes.
+1. Completar un curso completo de desarrollo _full-stack_ en los próximos seis meses.
+2. Desarrollar y desplegar al menos dos proyectos _full-stack_ completos este año.
+3. Publicar al menos tres artículos técnicos sobre desarrollo _full-stack_ en blogs relevantes.
 
 ---
 
@@ -102,7 +103,7 @@ Los resultados clave deben ser:
 
 Una vez establecidos los OKRs, es importante realizar un seguimiento periódico. Esto puede ser semanal, mensual o trimestral, ajustando esfuerzos según los progresos y obstáculos encontrados.
 
-Para esto, se recomienda tener un *dashboard* para visualizar los OKRs. Existen muchas herramientas para realizar este seguimiento, como:
+Para esto, se recomienda tener un _dashboard_ para visualizar los OKRs. Existen muchas herramientas para realizar este seguimiento, como:
 
 - **Weekdone**
 - **Monday**
