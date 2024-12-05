@@ -7,7 +7,8 @@ featured: true
 ogImage: ""
 tags:
   - okr
-  - softwareengineering
+  - software
+  - engineering
 description: Los OKRs y cómo podrías utilizarlos para el desarrollo de tu carrera en Ingeniería de Software
 ---
 
