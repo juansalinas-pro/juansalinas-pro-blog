@@ -1,7 +1,8 @@
 ---
+title: ¿Qué son los OKRs y cómo utilizarlos para el desarrollo de tu carrera en Ingeniería de Software?
 author: Juan Salinas
 pubDatetime: 2024-12-05T15:22:00Z
-title: ¿Qué son los OKRs y cómo utilizarlos para el desarrollo de tu carrera en Ingeniería de Software?
+slug: como-usar-okrs-en-ingenieria-de-software
 featured: true
 draft: false
 tags:
