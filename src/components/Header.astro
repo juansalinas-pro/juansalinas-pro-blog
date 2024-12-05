@@ -65,6 +65,11 @@ const { activeNav } = Astro.props;
               Tags
             </a>
           </li>
+          <li>
+            <a href="https://www.juansalinas.pro/" class={activeNav === "about" ? "active" : ""}>
+              About
+            </a>
+          </li>
           {
             SITE.showArchives && (
               <li>
