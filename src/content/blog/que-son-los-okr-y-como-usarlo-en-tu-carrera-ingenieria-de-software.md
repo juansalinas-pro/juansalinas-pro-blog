@@ -119,7 +119,7 @@ Implementar OKRs en tu carrera de Ingeniería de Software te proporcionará una 
 
 ---
 
-**Template de dashboard de OKRs para descargar:** [aquí](https://docs.google.com/spreadsheets/d/1qeLkA7O84a_CThoM3rT2rmXhbUK_IpaWjE7qZ1p4E_A/edit?usp=sharing)
+**Template de dashboard de OKRs para descargar:** [aquí](#)
 
 ---
 
