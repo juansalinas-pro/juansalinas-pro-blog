@@ -6,7 +6,7 @@ export const SITE: Site = {
   profile: "https://www.juansalinas.pro/",
   desc: "A blog about technology, startups and software engineering",
   title: "Juan Salinas",
-  ogImage: "favicon.ico",
+  ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 3,
