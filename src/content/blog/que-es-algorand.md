@@ -1,13 +1,14 @@
 ---
 title: ¿Más económica, más rápida, más verde.¿Qué es Algorand?
 author: Juan
-pubDatetime: 2024-11-30T15:57:52.737Z
+pubDatetime: 2024-12-04T15:57:52.737Z
 slug: que-es-algorand
 featured: true
 ogImage: ""
 tags:
   - blockchain
   - algorand
+  - web3
 description: Algorand.¿La blockchain más escalable?
 ---
 
