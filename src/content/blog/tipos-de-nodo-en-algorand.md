@@ -40,7 +40,6 @@ La red de Algorand se compone de dos tipos de nodos. A continuación, se detalla
 ---
 
 A continuación veremos un ejemplo de topología de la red de Algorand a modo de aportar mayor claridad:
-![something](@assets/images/tipos-de-nodos-en-algorand.webp)
 
 ---
 
