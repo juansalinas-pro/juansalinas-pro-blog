@@ -1,13 +1,12 @@
 ---
 title: Tipos de nodos en Algorand
 author: Juan
-pubDatetime: 2024-12-06T15:57:52.737Z
-slug: tipos-de-nodo-en-algorand
+pubDatetime: 2024-12-05T15:57:52.737Z
+slug: tipos-de-nodos-en-algorand
 featured: true
 ogImage: ""
 tags:
   - blockchain
-  - web3
   - algorand
 description: Los dos tipos de nodos que componen la red de Algorand
 ---
@@ -40,7 +39,7 @@ La red de Algorand se compone de dos tipos de nodos. A continuación, se detalla
 ---
 
 A continuación veremos un ejemplo de topología de la red de Algorand a modo de aportar mayor claridad:
-![something](@assets/images/tipos-de-nodos-en-algorand.webp)
+![Tipos de nodos en Algorand](@assets/images/tipos-de-nodos-en-algorand.webp)
 
 ---
 
